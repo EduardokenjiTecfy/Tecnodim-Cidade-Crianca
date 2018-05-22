@@ -1,0 +1,20 @@
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.csprojResolveAssemblyReference.cache
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.ProjectInstaller.resources
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.csproj.GenerateResource.Cache
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.csproj.CoreCompileInputs.cache
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\TecnoDimOcr.exe.config
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\TecnoDimOcr.exe
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\TecnoDimOcr.pdb
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\GdPicture.NET.dll
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\GdPicture.NET.PDF.dll
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.exe
+C:\Users\Leo Domeneghetti\Desktop\TECNODIM\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.pdb
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\TecnoDimOcr.exe.config
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\TecnoDimOcr.exe
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\bin\Release\TecnoDimOcr.pdb
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.ProjectInstaller.resources
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.csproj.GenerateResource.cache
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.csproj.CopyComplete
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.exe
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\Release\TecnoDimOcr.pdb

@@ -1,0 +1,4 @@
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\x86\Release\TecnoDimOcr.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\x86\Release\TecnoDimOcr.ProjectInstaller.resources
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\x86\Release\TecnoDimOcr.csproj.GenerateResource.cache
+C:\Users\eduardo.miura\Desktop\TecnoDimOcr - BACKUP\TecnoDimOcr\obj\x86\Release\TecnoDimOcr.csproj.CoreCompileInputs.cache
